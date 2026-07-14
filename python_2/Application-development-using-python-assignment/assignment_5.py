@@ -20,7 +20,10 @@ s = SumNumbers(1, 100)
 print("Sum 1 to 100 (Class):", s.calculate())
 
 
-# Function to calculate sum of odd numbers from 1 to 100
+
+# ------ The following codes are not applicable for assignments. ------------
+
+# Function to calculate sum of odd numbers from 1 to 100 
 def sum_odd_number():
     sum = 0 
     for i in range(1,101,2):
