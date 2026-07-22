@@ -10,6 +10,7 @@
 # Assignment 10: Write a program to calculate the area of a Circle using both a function and a class.
 # Assignment 11: Write a program using a function and class to check whether a number is prime.
 # Assignment 12: Write a program demonstrating Inheritance — using a Sub Class and Super Class.
+# Assignment 13: Write a program demonstrating Polymorphism.
 # Assignment 14: Write a program demonstrating exception handling (raising an exception).
 # Assignment 15: Write a program using Regex to find/search a specific word within a string.
 # Assignment 16: Write a program using Regex to extract numbers from a string.
